@@ -1,13 +1,13 @@
 Bitmap-Filter
 =============
-|license|
+|license| This project is provided under the lesser GNU licence.
 
 Quickstart:
 -----------
 
 <EDIT HERE> to add a codeblock to describe how to install this package using `pip`
 
-.. |license| image:: https://upload.wikimedia.org/wikipedia/en/2/22/Heckert_GNU_white.svg
+.. |license| image:: GNU.svg
    :target: <COPYING.LESSER>
 
 
