@@ -7,7 +7,11 @@ Quickstart:
 
 <EDIT HERE> to add a codeblock to describe how to install this package using `pip`
 
+
 .. |license| image:: GNU.svg
-   :target: <COPYING.LESSER>
+    :width: 200px
+    :align: center
+    :alt: Licence
+    :target: COPYING.LESSER
 
 
